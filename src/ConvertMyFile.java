@@ -304,7 +304,7 @@ public class ConvertMyFile {
 			//Use default text file included in this project
 			if (filePath.toString().equals("a") && (fileTypeLiteral == ".txt"|| fileTypeLiteral == ".TXT"))	
 			{
-				filePath = "C:\\Users\\Bob Ross\\Desktop\\workspace\\ConvertFile\\M,HeatherBGDataJune5.txt";
+				filePath = "M,HeatherBGDataJune5.txt";
 			}
 			else if (filePath.toString().equals("a") && (fileTypeLiteral == ".dat" || fileTypeLiteral == ".DAT"))
 			{
