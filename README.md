@@ -37,6 +37,7 @@ Running with these user inputs will popup a new excel window containing the data
 - [ ] Handle java exceptions if either file remains open, like version 1 does.
 - [ ] Gather some .xml data from dex
 - [ ] Move in the exit program function from the original convertFile repo that I made. Is there any other missing functionality in this file? Make the original blah code run and see.
+- [ ] Because there is an html file in this project, Github reports this as a html project, not a java one. Do I need to keep this html file here?
 
 
 
